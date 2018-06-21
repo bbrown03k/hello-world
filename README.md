@@ -1,4 +1,5 @@
 # hello-world
 MyFirst
 
-First, but really second notes
+Just making some small edits and what not. Big steps soon
+
